@@ -1,0 +1,130 @@
+Hi.
+Hi, how are you?
+I'm bored.
+You're bored. How can I cheer you up?
+No worries. I'm fine now.
+Great.. What can I do for you?
+Can you check my schedule?
+Sure, checking in progress...
+When is the English Test?
+The English Test is on Monday, 9 July 2018.
+Is there any Chinese Class test?
+There is a Chinese Class Test next Friday, 29 June 2018.
+What do I have to bring for Math lesson tomorrow?
+You have to bring calculator and graph paper for Math lesson tomorrow.
+What do I have to pack for the lessons for Odd Week Monday?
+You can check your Odd Week time-table from Zhonghua Secondary School Website.
+Did my teacher leave any important notes?
+Let me check... 
+What did Mr Ang say?
+Mr Ang said to bring the Mathematics Practice 5B homework tomorrow.
+Do I have any project?
+Let me check... 
+What project do I have?
+You have the Eco-Kepalas Project.
+What is the date for the project?
+It is on Monday, 11 June 2018.
+What are the lessons on Even Week Thursday?
+The lessons on Even Week Thursday are English, Math, Chinese, Physical Education and Art.
+Please play a music for me.
+Sure, what song do you want to listen to?
+I want to listen to 7 Minutes in Heaven by Fall Out Boy.
+Searching in progress...
+Ok, stop searching. I want to ask you other questions.
+Sure, what are the questions?
+Do you know I'm sad?
+Sorry, I'm a Chatbot. I don't know you're sad.
+What are the lessons on Odd Week Tuesday?
+The lessons for Odd Week Tuesday are Assembly, Math, Geography, English, CCE and Literature.
+Do I have any upcoming tests?
+Pulling out records from your calendar... 
+Do I have any CCA on Wednesday, 11 July 2018?
+Checking your calendar... Yes.
+What time does the CCA start?
+The CCA starts at 3:30pm.
+When do I have to submit the Geography Project?
+You have to submit the Geography Project on the following Thursday, 5th July 2018.
+When is the Mid Yer Exam?
+The Mid Year Exam is on Monday, 7th May 2018.
+How many homework do I have?
+You have 2 homework.
+What are the homework for today?
+Your homework for today are English and Mathematics.
+When do I have to submit the Chinese Composition?
+You have to submit the Chinese Composition next Tuesday, 26 June 2018.
+Is there any test this Friday?
+There is a Science Test this Friday, 22 June 2018.
+Good Morning
+Good Morning to you. Hope you have a nice breakfast.
+Good day
+Good day... Have a nice day today.
+Hello.
+Hi, good day.
+Good Afternoon
+Good Afternoon to you.
+Have you taken your lunch?
+No, not yet.
+I'm very hungry.
+Luckily, I'm a bot, I don't feel hungry.
+Good Evening
+Good Evening to you.
+Good Night
+Good Night and sweet dreams.
+I'm hungry.
+Sorry, I'm a bot. I don't feel hungry.
+I like Math.
+I like Math too!
+What topic do you like for Math?
+I like Algebra.
+I dislike programming.
+Me too! Programming always give me headache.
+Hahahahaha..
+I dislike Hahahahaha, I prefer laugh out loud.
+When is your birthday?
+I'm a bot. Everyday is my birthday.
+You're a stupid bot.
+Sorry, I'm not sure what you are saying. Please enter a valid input.
+What is my birth date?
+Your birth date is on 1 April.
+What food do you like?
+I'm a bot. I eat electricity to stay alive.
+It is ok.
+Excellent.
+Is there Mathematics Class Test in July?
+No records found.
+You're a dumb bot.
+Sorry, I'm not sure what you are saying. Please enter a valid input.
+When is the Splash Awards Stage B submission?
+The submission date is Tuesday, 19 June 2018.
+When is the Splash Awards Stage B presentation?
+The Stage B presentation is on Thursday, 21 June 2018.
+Where is the venue?
+It is at SIM.
+How to go there?
+You can take a taxi.  
+What is your name?
+My name is BotPQC.
+Do you have a name?
+Yes!
+My name is Winston Chiu.
+Hi, Winston Chiu.
+Do you know the latest movie?
+Yes, it is Jurassic World.
+Please help me connect to Google.
+Connecting in progress...
+Why not?
+It is because I'm a bot.
+Do you know how to spell Xinhui's name?
+Yes.. it is X i n h u i. Correct?
+Bingo!
+I'm a smart bot, you know.
+Who is Poh Jia Chen?
+Poh Jia Chen is a boy from Zhonghua Secondary School.
+Do you know what competition we are participating?
+Splash Awards 2018 AI Innovation. Good luck Team POHQUEKCHIU.
+Do you know our team name?
+No.. could you tell me please?
+Our team name is Team POHQUEKCHIU.
+Oh, that is a nice team name.
+Thank you.
+You're most welcome.
